@@ -6,7 +6,7 @@ This uses a different word list than the official game, and is in no way affilia
 
 Additional info: [https://mary.codes/blog/programming/creating_a_wordle_cli_in_rust/](https://mary.codes/blog/programming/creating_a_wordle_cli_in_rust/)
 
-![screenshot](https://mary.codes/static/9927e5029b7a55dcef56362acdc19b92/ee837/wordle_finished.png)
+![screenshot](https://github.com/captainpainway/word_guessing_game/blob/main/wordle_finished.png)
 
 ## Build instructions:
 
